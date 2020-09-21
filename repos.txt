@@ -1,0 +1,2 @@
+https://github.com/treasure-data/cdp-bi
+https://github.com/treasure-data/tf_svc_cdp-bi
