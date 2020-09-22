@@ -1,3 +1,6 @@
+* Clones all repositories in `repos.txt` 
+* Creates a `CODEOWNERS` file, templatized by `template.txt`, populated by `users.txt`
+
 # Run Example
 `sh own_yo_code.sh users.txt repos.txt`
 
